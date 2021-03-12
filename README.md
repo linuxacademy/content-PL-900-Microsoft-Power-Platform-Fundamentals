@@ -1,9 +1,5 @@
-# PL-900 Microsoft Power Platform Fundamentals
+**NOTE: These files are provided as part of this course to work with as part of the Power BI section of this course.**
+*SPECIAL MENTION: The source of this data is - https://github.com/CSSEGISandData/COVID-19*
 
-
-## Contents
-
-This repository contains the contents to support you in the demonstrations included in the video lessons of the PL-900 Power Platform Fundamentals course. Thanks for stopping by to get your files Gurus! Below you will see a mapping of files and their purposes.
-
-
-### ACG Time Off.xlsx - Use in creating canvas app demonstration
+- File: 12-31-2020.csv (contains COVID-19 data across globe as of 12-31-2020)
+- country_mapping.xlsx (contains mapping of countries from dataset)
