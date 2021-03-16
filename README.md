@@ -12,4 +12,4 @@
 
 **File Name:** *12-31-2020.csv* (contains COVID-19 data across globe as of 12-31-2020 for Power BI demonstrations)
 
-**File Name:** *country_mapping.xlsx* (contains mapping of countries for Power BI demonstrations)
+**File Name:** *country_continent_mapping.xlsx* (contains mapping of countries for Power BI demonstrations)
